@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "952384807466",
+    "project_id": "jukebox-758b7",
+    "storage_bucket": "jukebox-758b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952384807466:android:2c0bddafbdb60c28d69953",
+        "android_client_info": {
+          "package_name": "com.ivaxtech.jukebox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952384807466-egvona906qdoph5l9b9c9di1givjasro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ivaxtech.jukebox",
+            "certificate_hash": "760d303b61cd8e226a85a00b813a143c0688dbf9"
+          }
+        },
+        {
+          "client_id": "952384807466-jcilpfiem7106jfrufbgtqnc2t2ai91n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIPPi1fRoFqLWtRVLkfsyOVBPi0amcTFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952384807466-jcilpfiem7106jfrufbgtqnc2t2ai91n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

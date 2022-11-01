@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">JukeBox</string>
+    <string name="loading_text">Loading...</string>
+    <string name="hint_search_query">Search Music...</string>
+    <string name="picked_for_you">Picked for You</string>
+    <string name="more">More</string>
+    <string name="popular_genre">Popular Genre</string>
 </resources>

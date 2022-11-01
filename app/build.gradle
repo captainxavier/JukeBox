@@ -73,9 +73,9 @@ dependencies {
     // Import the Firebase BoM
     implementation platform('com.google.firebase:firebase-bom:31.0.2')
     //Add firebase firestore
-    implementation platform('com.google.firebase:firebase-firestore-ktx')
+    implementation 'com.google.firebase:firebase-firestore-ktx'
     //Add firebase storage
-    implementation platform('com.google.firebase:firebase-storage-ktx')
+    implementation 'com.google.firebase:firebase-storage-ktx'
     //Add firebase Auth
     implementation 'com.google.firebase:firebase-auth-ktx'
     //Add firebase analytics
@@ -92,6 +92,10 @@ dependencies {
     // Dagger Hilt
     implementation("com.google.dagger:hilt-android:$dagger_version")
     kapt("com.google.dagger:hilt-android-compiler:$dagger_version")
+    //lottie
+    implementation 'com.airbnb.android:lottie-compose:5.2.0'
+    //icons
+    implementation "androidx.compose.material:material-icons-extended:$compose_ui_version"
 
 }
 
